@@ -27,5 +27,7 @@ color: #999999;
 	margin-top: 10px;
 }
 
-
+h1:hover {
+	color: blue;
+}
 
